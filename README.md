@@ -1,6 +1,6 @@
 # GreatLearningCapstoneProject
 
-Collaborative space to work on Pnneumonia Detection Challenge.
+Collaborative space to work on Pneumonia Detection Challenge.
 
 Challenge Statement - Pneumonia Detection Challenge.pdf
 
